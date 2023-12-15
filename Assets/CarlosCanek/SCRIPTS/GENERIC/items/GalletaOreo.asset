@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13a59bf5c59a5194083b9e9b202fbe63, type: 3}
+  m_Name: GalletaOreo
+  m_EditorClassIdentifier: 
+  name: Galleta Oreo
+  icon: {fileID: 0}
+  description: 
+  value: 0
+  prefab: {fileID: 7537903293374087535, guid: 47a726409ac420e40bef32ca8e4285d5, type: 3}

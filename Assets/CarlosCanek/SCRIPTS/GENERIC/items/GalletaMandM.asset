@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13a59bf5c59a5194083b9e9b202fbe63, type: 3}
+  m_Name: GalletaMandM
+  m_EditorClassIdentifier: 
+  name: Galleta M&M
+  icon: {fileID: 0}
+  description: Galleta que mejora tu velocidad
+  value: 0
+  prefab: {fileID: 2002568794635576513, guid: 82f4bdef33932a54c96b2789ab3bf815, type: 3}
